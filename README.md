@@ -2,6 +2,4 @@
 
 A short video showcasing the project's features.
 
-<video src="assets/videos/portfolio-demo.mp4" controls muted loop autoplay width="100%">
-    Your browser does not support the video tag.
-</video>
+![Image](https://github.com/user-attachments/assets/b48d06ac-29c4-4c69-8e60-21b52cd6c16a)
